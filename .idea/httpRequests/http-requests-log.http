@@ -1,0 +1,223 @@
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 85
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user2&password=1234&client_id=glsid-bdcc-customer-client
+
+<> 2023-12-16T170226.200.json
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 85
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user2&password=1234&client_id=glsid-bdcc-customer-client
+
+<> 2023-12-16T170122.401.json
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 85
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user2&password=1234&client_id=glsid-bdcc-customer-client
+
+<> 2023-12-16T170048.401.json
+
+###
+
+GET http://localhost:8098/products
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJMdVJhRHJDTzdpTTJjWVBuX2g5aW56YURLSG9NLUwtampfcXpmTTV0M0FRIn0.eyJleHAiOjE3MDI3MjI2MzYsImlhdCI6MTcwMjcyMjMzNiwianRpIjoiN2NlMmE4YzItNDFlNi00NzY0LTllMDItOGM4NDJlMTE3OWY5IiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9zZGlhLXJlYWxtIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6Ijg0ZGEwMmEzLTE3NzMtNDFhNS05Y2IzLWMyNTIwN2VjNWM5ZiIsInR5cCI6IkJlYXJlciIsImF6cCI6InNkaWEtY3VzdG9tZXItY2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6IjlhYzNhODAzLTRiNzctNDc2OS05NTgxLTkxZGI3ZjJiMjMyNSIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo4MDkwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzLXNkaWEtcmVhbG0iLCJvZmZsaW5lX2FjY2VzcyIsIkFETUlOIiwidW1hX2F1dGhvcml6YXRpb24iLCJVU0VSIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJlbWFpbCBwcm9maWxlIiwic2lkIjoiOWFjM2E4MDMtNGI3Ny00NzY5LTk1ODEtOTFkYjdmMmIyMzI1IiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJuYW1lIjoibWVkIHlvdXNzZmkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ1c2VyMiIsImdpdmVuX25hbWUiOiJtZWQiLCJmYW1pbHlfbmFtZSI6InlvdXNzZmkiLCJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSJ9.VesbkD2TUkfQybIohmFkcWQJKdKt9sZb6hFIo472C-_iKqs6L60SvKBfwFJPhR5RKjkJYz9SomgyypMjyPiIxBWVa1BUfIAStUHmruCV--dzJ00FCY_sSpgZMG_2w97qvT-FwduMVczlYuyogZzaJOU_TKGXblEipDsvlicA1nFeWo2BonQU441w_FWcbleL9uGBG_fEkEUX-iQpgbda5XyisnbpPp3r58TV8flREegSHFFjQLnZmoHbkVDppVSzJXZKvzXYm6-wwlImucI9S0W2Z7zmgVV6SmOKN5JV_Y-A0xFUO3TJ_5SFCRH3-iMDoSj5yQ3AcaxhqctX6-D6WA
+<> 2023-12-16T112221.200.json:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-16T113123.400.html
+
+###
+
+GET http://localhost:8098/products
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJMdVJhRHJDTzdpTTJjWVBuX2g5aW56YURLSG9NLUwtampfcXpmTTV0M0FRIn0.eyJleHAiOjE3MDI3MjI2MzYsImlhdCI6MTcwMjcyMjMzNiwianRpIjoiN2NlMmE4YzItNDFlNi00NzY0LTllMDItOGM4NDJlMTE3OWY5IiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9zZGlhLXJlYWxtIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6Ijg0ZGEwMmEzLTE3NzMtNDFhNS05Y2IzLWMyNTIwN2VjNWM5ZiIsInR5cCI6IkJlYXJlciIsImF6cCI6InNkaWEtY3VzdG9tZXItY2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6IjlhYzNhODAzLTRiNzctNDc2OS05NTgxLTkxZGI3ZjJiMjMyNSIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo4MDkwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzLXNkaWEtcmVhbG0iLCJvZmZsaW5lX2FjY2VzcyIsIkFETUlOIiwidW1hX2F1dGhvcml6YXRpb24iLCJVU0VSIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJlbWFpbCBwcm9maWxlIiwic2lkIjoiOWFjM2E4MDMtNGI3Ny00NzY5LTk1ODEtOTFkYjdmMmIyMzI1IiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJuYW1lIjoibWVkIHlvdXNzZmkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ1c2VyMiIsImdpdmVuX25hbWUiOiJtZWQiLCJmYW1pbHlfbmFtZSI6InlvdXNzZmkiLCJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSJ9.VesbkD2TUkfQybIohmFkcWQJKdKt9sZb6hFIo472C-_iKqs6L60SvKBfwFJPhR5RKjkJYz9SomgyypMjyPiIxBWVa1BUfIAStUHmruCV--dzJ00FCY_sSpgZMG_2w97qvT-FwduMVczlYuyogZzaJOU_TKGXblEipDsvlicA1nFeWo2BonQU441w_FWcbleL9uGBG_fEkEUX-iQpgbda5XyisnbpPp3r58TV8flREegSHFFjQLnZmoHbkVDppVSzJXZKvzXYm6-wwlImucI9S0W2Z7zmgVV6SmOKN5JV_Y-A0xFUO3TJ_5SFCRH3-iMDoSj5yQ3AcaxhqctX6-D6WA
+<> 2023-12-16T112221.200.json:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-16T112652.400.html
+
+###
+
+GET http://localhost:8098/products
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJMdVJhRHJDTzdpTTJjWVBuX2g5aW56YURLSG9NLUwtampfcXpmTTV0M0FRIn0.eyJleHAiOjE3MDI3MjI2MzYsImlhdCI6MTcwMjcyMjMzNiwianRpIjoiN2NlMmE4YzItNDFlNi00NzY0LTllMDItOGM4NDJlMTE3OWY5IiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9zZGlhLXJlYWxtIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6Ijg0ZGEwMmEzLTE3NzMtNDFhNS05Y2IzLWMyNTIwN2VjNWM5ZiIsInR5cCI6IkJlYXJlciIsImF6cCI6InNkaWEtY3VzdG9tZXItY2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6IjlhYzNhODAzLTRiNzctNDc2OS05NTgxLTkxZGI3ZjJiMjMyNSIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo4MDkwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzLXNkaWEtcmVhbG0iLCJvZmZsaW5lX2FjY2VzcyIsIkFETUlOIiwidW1hX2F1dGhvcml6YXRpb24iLCJVU0VSIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJlbWFpbCBwcm9maWxlIiwic2lkIjoiOWFjM2E4MDMtNGI3Ny00NzY5LTk1ODEtOTFkYjdmMmIyMzI1IiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJuYW1lIjoibWVkIHlvdXNzZmkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ1c2VyMiIsImdpdmVuX25hbWUiOiJtZWQiLCJmYW1pbHlfbmFtZSI6InlvdXNzZmkiLCJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSJ9.VesbkD2TUkfQybIohmFkcWQJKdKt9sZb6hFIo472C-_iKqs6L60SvKBfwFJPhR5RKjkJYz9SomgyypMjyPiIxBWVa1BUfIAStUHmruCV--dzJ00FCY_sSpgZMG_2w97qvT-FwduMVczlYuyogZzaJOU_TKGXblEipDsvlicA1nFeWo2BonQU441w_FWcbleL9uGBG_fEkEUX-iQpgbda5XyisnbpPp3r58TV8flREegSHFFjQLnZmoHbkVDppVSzJXZKvzXYm6-wwlImucI9S0W2Z7zmgVV6SmOKN5JV_Y-A0xFUO3TJ_5SFCRH3-iMDoSj5yQ3AcaxhqctX6-D6WA
+<> 2023-12-16T112221.200.json:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-16T112611.400.html
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 126
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user2&password=1234&client_id=sdia-customer-client&client_secret=MeQM3IWlzN1rH7TtzLqtqhWUXS3cIPx3
+
+<> 2023-12-16T112536.200.json
+
+###
+
+GET http://localhost:8098/products
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJMdVJhRHJDTzdpTTJjWVBuX2g5aW56YURLSG9NLUwtampfcXpmTTV0M0FRIn0.eyJleHAiOjE3MDI3MjI0NDEsImlhdCI6MTcwMjcyMjE0MSwianRpIjoiYTI3MGU5YmQtMjcxNC00ODZjLWJjODQtODQ5ZmZmNjAyNWQzIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9zZGlhLXJlYWxtIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6IjFiMTczMzYyLTRiMTEtNDZjZi1iYWFmLTgwYWU0ZTYwOTZiOCIsInR5cCI6IkJlYXJlciIsImF6cCI6InNkaWEtY3VzdG9tZXItY2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6IjA1M2E0Y2ZlLTZiZTUtNGQ3Yy05MzViLTE3YjFhNmFjMzMzNCIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo4MDkwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzLXNkaWEtcmVhbG0iLCJvZmZsaW5lX2FjY2VzcyIsInVtYV9hdXRob3JpemF0aW9uIiwiVVNFUiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsInNpZCI6IjA1M2E0Y2ZlLTZiZTUtNGQ3Yy05MzViLTE3YjFhNmFjMzMzNCIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6Illhc3NpbmUgS2FyaW1pIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidXNlcjEiLCJnaXZlbl9uYW1lIjoiWWFzc2luZSIsImZhbWlseV9uYW1lIjoiS2FyaW1pIiwiZW1haWwiOiJ1c2VyMUBnbWFpbC5jb20ifQ.Mzxd9oq-5nCV6C6eQyB_pV80eBS6py33h8399_A3KJiE0KK3s5p_k9pz9aPP68OJiwm7wfXeoCM3SyNLQPpK-5YNVe7Sd99QzS8z7EpJuPmyiApoRQlWf3LOwXIshL709pgXSG5JfLHZaiaGDgsY34Q9OPKSClKtAZYg8G5MC8ujGtdK0NJcwa3CZ2TDu13rSQib5ihDtnXCDa5yKr2hA9k24ijiYkkhdEZCTf1zJJk0dV5R5Wc3qVbozgIzYQTswOKDfchDGdABv0OsK6zaax7-GqzhL7-5tAQZdHONDoB0Dqcm_uJMlyI0CwwjpOv8BK-5wt-cUTkTHrm9bSLZ-A
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 126
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client&client_secret=MeQM3IWlzN1rH7TtzLqtqhWUXS3cIPx3
+
+<> 2023-12-16T112221.200.json
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 126
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client&client_secret=MeQM3IWlzN1rH7TtzLqtqhWUXS3cIPx3
+
+<> 2023-12-16T111935.200.json
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 126
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client&client_secret=MeQM3IWlzN1rH7TtzLqtqhWUXS3cIPx3
+
+<> 2023-12-15T170345.200.json
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 126
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client&client_secret=MeQM3IWlzN1rH7TtzLqtqhWUXS3cIPx3
+
+<> 2023-12-15T170326.200.json
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 126
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client&client_secret=MeQM3IWlzN1rH7TtzLqtqhWUXS3cIPx3
+
+<> 2023-12-15T170318.200.json
+
+###
+
+POST http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 79
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client
+
+<> 2023-12-15T170115.200.json
+
+###
+
+GET http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 79
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client
+
+<> 2023-12-15T170046.405.json
+
+###
+
+GET http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 79
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client
+
+<> 2023-12-15T165848.405.json
+
+###
+
+GET http://localhost:8080/realms/sdia-realm/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 79
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&username=user1&password=1234&client_id=sdia-customer-client
+
+<> 2023-12-15T165810.405.json
+
+###
+
